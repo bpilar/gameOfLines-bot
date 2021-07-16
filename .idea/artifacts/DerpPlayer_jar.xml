@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DerpPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DerpPlayer_jar</output-path>
+    <root id="archive" name="DerpPlayer.jar">
+      <element id="module-output" name="DerpPlayer" />
+      <element id="module-output" name="BoardGame" />
+    </root>
+  </artifact>
+</component>
